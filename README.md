@@ -27,6 +27,6 @@ Language:
 * [Documentation](https://learn.microsoft.com/pt-br/azure/ai-services/language-service/)
 * [Github (C#)](https://github.com/Azure/azure-sdk-for-net/tree/main/sdk/textanalytics/Azure.AI.TextAnalytics/samples)
 
-### Próximos passos
+## Próximos passos
 
 Como é um assunto extenso e novo na minha rotina, creio que irei aprender mais sobre essas ferramentas e com certeza será útil para resolver problemas. A Azure é uma descoberta positiva para minha carreira.
